@@ -36,7 +36,7 @@ Run unit tests with the below command:
 npm run test:unit
 ```
 
-#### End to End Tests
+### End to End Tests
 
 For the purpose of end to end tests, you can run a test server configured with a rate limit timeframe of a few seconds vs the production server that has a 1 hour timeframe. The test server is meant to have one run of end to end tests and then shut down after.
 
